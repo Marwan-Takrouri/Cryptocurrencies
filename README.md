@@ -11,3 +11,4 @@ In unsupervised learning, there are two key differences from the above approach:
 In supervised learning, the input data already has a paired outcome, which is plugged in to train the model to predict outcomes in new datasets. 
 We built  a model that, when given unfamiliar data, can accurately predict the outcomes.
   
+![alt text]
