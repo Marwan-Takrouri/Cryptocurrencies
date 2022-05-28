@@ -12,4 +12,4 @@ In supervised learning, the input data already has a paired outcome, which is pl
 We built  a model that, when given unfamiliar data, can accurately predict the outcomes.
   
 ![alt text](https://github.com/Marwan-Takrouri/Cryptocurrencies/blob/main/bokeh_plot.png)
-![alt text]
+![alt text](https://github.com/Marwan-Takrouri/Cryptocurrencies/blob/main/newplot.png)
